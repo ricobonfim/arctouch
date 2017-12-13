@@ -1,0 +1,14 @@
+.label {
+  color: white;
+  padding: 4px;
+  border-radius: 8px;
+  margin: 2px;
+  margin-bottom: : 4px;
+  white-space: nowrap;
+}
+
+.genre {background-color: #2196F3;}
+
+img.poster {
+  width: 350px;
+}
